@@ -49,6 +49,26 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjqnr68)](https://solved.ac/rjqnr68/)
 
 
+
+
+name: Update gist
+on:
+  repository_dispatch:
+    types: [build-event]
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update gist
+        uses: changwoo-yu/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          TIMEZONE: Asia/Seoul
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changwoo-yu)](https://github.com/changwoo-yu/github-readme-stats)
 
 
