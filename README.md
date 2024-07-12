@@ -52,4 +52,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changwoo-yu)](https://github.com/changwoo-yu/github-readme-stats)
 
 
-https://gist.github.com/maxam2017/
