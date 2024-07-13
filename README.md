@@ -14,11 +14,6 @@
 
 
 😎 About Me
-<span>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:changwooyu1213@gmail.com)](changwooyu1213@gmail.com)
 
@@ -48,6 +43,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjqnr68)](https://solved.ac/rjqnr68/)
 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c])
 
 
+<span>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
 
